@@ -13,6 +13,7 @@ ul, li {
   width: 250px;
   border: 1px solid #f5f5f5;
   border-radius: 6px;
+  margin: 0 auto;
 }
 
 .avatar {
